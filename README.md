@@ -8,6 +8,33 @@ and local persistence.
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/01-login.png" width="250" alt="Login screen" /></td>
+    <td><img src="screenshots/02-signup.png" width="250" alt="Sign up screen" /></td>
+    <td><img src="screenshots/03-catalogue.png" width="250" alt="Catalogue loaded from the live API" /></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/04-search.png" width="250" alt="Live search filtering the catalogue" /></td>
+    <td><img src="screenshots/05-filter.png" width="250" alt="Category filter applied" /></td>
+    <td><img src="screenshots/06-details.png" width="250" alt="Product details screen" /></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/07-saved.png" width="250" alt="Saved favourites" /></td>
+    <td><img src="screenshots/08-home.png" width="250" alt="Home dashboard" /></td>
+    <td><img src="screenshots/09-profile.png" width="250" alt="Profile and account screen" /></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/10-offline-cache.png" width="250" alt="Offline mode serving the cached catalogue" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 1. What it does
 
 | Screen | Purpose |
