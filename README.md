@@ -149,12 +149,21 @@ flutter analyze            # no issues
 
 ---
 
-## 7. Notes for Sankar Group
+## 7. Why this maps to Sankar Group
 
-The listing → details → search → favourites flow is domain-agnostic. It maps
-directly onto **Aasthi**: swap `Product` for a `Property` model (title, price,
-locality, area, images) and the API, provider, listing and search layers stay
-unchanged. The only new work would be a filter row for BHK, budget and locality.
+Kiosk was built as an independent app for this assignment, on a public API. Sankar Group does not
+run a retail e-commerce store, and this app does not claim to be one of their products. What it
+demonstrates is the **mobile pattern three of their businesses already run**, built once, cleanly:
 
-Demo account for reviewers: create any account from the Sign up screen — it is
-stored on the device only.
+| Sankar Group product | The same flow, on mobile |
+|---|---|
+| **Surefy Reachout** — mobile-first lead tracking, sales coordination, prospect follow-up | A lead list a salesperson browses, filters by segment or status, opens a lead, and marks it saved for follow-up. That is list → search → filter → detail → saved. |
+| **Digipe** — merchant enablement, transaction workflows | The same list / detail / saved pattern over a merchant's transactions, with search by amount or date. |
+| **Mierae Solar** — packages, subsidy support, EMI options | A customer-facing catalogue of offerings with a detail page and an enquiry action — the "Save for later" slot in this app. |
+
+The architecture does not change. Swap `Product` for a `Lead`, `Transaction` or `Package` model, point
+`ApiService` at the group's own backend, and the provider, search, filter, favourites, offline-cache
+and session layers stay exactly as they are. The only new work is the filter row: segment/status for
+Surefy, amount/date for Digipe, location and rooftop capacity for Mierae.
+
+Demo account for reviewers: create any account from the Sign up screen — it is stored on the device only.
