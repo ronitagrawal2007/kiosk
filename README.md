@@ -35,6 +35,19 @@ and local persistence.
 
 ---
 
+## Video
+
+A 58-second walkthrough of the whole app — launch, sign up, home dashboard, live search, category
+filter, product details, saving an item, and the offline mode serving the cached catalogue.
+
+<a href="https://raw.githubusercontent.com/ronitagrawal2007/kiosk/main/docs/kiosk-demo-60s.mp4">
+  <img src="docs/kiosk-demo-poster.png" alt="Kiosk - 58 second demo" width="260" />
+</a>
+
+[Watch the demo (MP4, 36 MB, 1080x1920)](https://raw.githubusercontent.com/ronitagrawal2007/kiosk/main/docs/kiosk-demo-60s.mp4)
+
+---
+
 ## 1. What it does
 
 | Screen | Purpose |
