@@ -1,4 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Required for the product catalogue API. The Flutter template only
+         adds this to the debug and profile manifests, so release builds fail
+         with a network error unless it is declared here. -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="Kiosk"
         android:name="${applicationName}"
