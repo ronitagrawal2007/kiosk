@@ -135,6 +135,11 @@ flutter build apk --release
 
 Release APK: `build/app/outputs/flutter-apk/app-release.apk`
 
+Or download the published build:
+
+**App Link:** https://github.com/ronitagrawal2007/kiosk/releases/tag/v1.0.0
+(`app-release.apk` · 47.7 MB · arm64/armv7/x86_64)
+
 Tests:
 
 ```bash
