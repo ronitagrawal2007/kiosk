@@ -6,6 +6,9 @@ and local persistence.
 
 **Live data:** `https://fakestoreapi.com/products`
 
+**Brief:** a 48-hour Flutter internship assignment — the app, the release APK, the demo video and
+this README are all in the repo.
+
 ---
 
 ## Screenshots
@@ -40,11 +43,11 @@ and local persistence.
 A 58-second walkthrough of the whole app — launch, sign up, home dashboard, live search, category
 filter, product details, saving an item, and the offline mode serving the cached catalogue.
 
-<a href="https://raw.githubusercontent.com/ronitagrawal2007/kiosk/main/docs/kiosk-demo-60s.mp4">
+<a href="https://github.com/ronitagrawal2007/kiosk/releases/download/v1.0.0/kiosk-demo-60s.mp4">
   <img src="docs/kiosk-demo-poster.png" alt="Kiosk - 58 second demo" width="260" />
 </a>
 
-[Watch the demo (MP4, 36 MB, 1080x1920)](https://raw.githubusercontent.com/ronitagrawal2007/kiosk/main/docs/kiosk-demo-60s.mp4)
+[Watch the demo (MP4, 36 MB, 1080x1920)](https://github.com/ronitagrawal2007/kiosk/releases/download/v1.0.0/kiosk-demo-60s.mp4)
 
 ---
 
