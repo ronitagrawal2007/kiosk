@@ -40,14 +40,11 @@ this README are all in the repo.
 
 ## Video
 
-A 58-second walkthrough of the whole app — launch, sign up, home dashboard, live search, category
-filter, product details, saving an item, and the offline mode serving the cached catalogue.
 
-<a href="https://github.com/ronitagrawal2007/kiosk/releases/download/v1.0.0/kiosk-demo-60s.mp4">
-  <img src="docs/kiosk-demo-poster.png" alt="Kiosk - 58 second demo" width="260" />
-</a>
 
-[Watch the demo (MP4, 36 MB, 1080x1920)](https://github.com/ronitagrawal2007/kiosk/releases/download/v1.0.0/kiosk-demo-60s.mp4)
+https://github.com/user-attachments/assets/078bbc5e-210d-4607-9175-8e71261df142
+
+
 
 ---
 
