@@ -156,7 +156,7 @@ Or download the published build:
 Tests:
 
 ```bash
-flutter test               # 13 unit tests: validators, JSON parsing, provider
+flutter test               # 16 unit tests: validators, JSON parsing, provider, cache
 flutter analyze            # no issues
 ```
 
